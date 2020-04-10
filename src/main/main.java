@@ -12,6 +12,8 @@ public class main {
         information.add(120);//initial quantity of coffeebean
         information.add(9);//initial quantity of disposal cups
         information.add(550);//initial ammount
+        System.out.println("Write action(Buy,Fill,Take,Remaining,Exit");
+        String action = sc.nextLine();
 
     }
 
